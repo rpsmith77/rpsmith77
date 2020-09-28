@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/rpsmith77/rpsmith77/readme_header.png "Header")](https://www.linkedin.com/in/ryan--smith/)
+[![Header](https://github.com/rpsmith77/rpsmith77/blob/main/readme_header.png)](https://www.linkedin.com/in/ryan--smith/)
 
 ### Hi there 👋
 
